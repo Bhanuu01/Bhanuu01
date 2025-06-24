@@ -21,7 +21,7 @@
 | `SpamSleuth` 🔍 | Django, DRF, SQLite | Detect and flag spam numbers using a RESTful API |
 | `QueueCraft` 🌀 | Celery, Redis, Docker | My experiment with distributed job queues & observability |
 | `StressSense` 😓 | OpenCV, Audio ML | Stress detection from images + speech |
-| `WeatherPing` 🌦️ | Django, Celery, Redis | Real-time weather alert dashboard with auto-notifications |
+| `ClimaCast` 🌦️ | Django, Celery, Redis | Real-time weather alert dashboard with auto-notifications |
 
 > 🔧 Every project is a puzzle I loved solving. Some are practical. Some are playful. All are personal.
 
