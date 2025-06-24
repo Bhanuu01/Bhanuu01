@@ -1,60 +1,40 @@
-<h1 align="center">Hi, I'm Bhanuja (Chinni) 👋</h1>
-<h3 align="center">System-thinker | Backend Dev | Infra Explorer</h3>
+<h1 align="center">Hey, I'm Bhanuja 👋</h1>
+<h3 align="center">A curious engineer who loves building useful, quirky, and scalable things.</h3>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,100:86A8E7&height=160&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=30&fontColor=ffffff" />
+</p>
 
 ---
 
-💡 I’m that engineer who’s curious about **how things scale**, how services talk to each other, and what happens when everything fails and still recovers.
-
-🛠️ I build backend systems, automation pipelines, and tools that talk to APIs, sensors, or each other. I'm currently crafting mini-systems to learn **distributed computing, DevOps, and observability** — while keeping it creative.
-
----
-
-### 🧪 What I'm Exploring
-- ⏳ Distributed Job Queues & Event-Driven Architectures
-- 🛠 Building CI/CD pipelines with GitHub Actions & Docker
-- 📊 Real-time Monitoring with Prometheus + Grafana
-- ☁️ Cloud deployments via AWS/DigitalOcean
-- 🐘 My favorite personal project: An IoT system to protect elephants 🐘
+🌱 I’m always learning — be it a new tool, a random API, or a better way to solve a problem.  
+💡 I like turning ideas into code, and code into something that makes people go “whoa”.  
+🚀 Currently exploring: backend systems, automation, IoT, cloud infra & little bits of AI.
 
 ---
 
-### 📌 Featured Projects
+### ✨ Highlights of What I Build
 
-| 🧠 Project | ⚙️ Tech | 📘 TL;DR |
-|-----------|--------|----------|
-| `QueueCraft` 🌀 | Python, Redis, Celery, Prometheus | A distributed task runner with retries, metrics, and auto-scaling |
-| `GAJA v2` 🐘 | MQTT, InfluxDB, Grafana | Real-time IoT-based elephant alert system with dashboards |
-| `SpamSleuth` 🚫 | Django, DRF, JWT, Docker | API to identify & flag spam numbers with JWT auth |
-| `InfraWatch` 🔭 | Go, Prometheus, Grafana | Light system agent for tracking memory, CPU, disk from multiple devices |
-| `PipeDreams` 🔁 | Jenkins, Docker, GitHub Actions | My CI/CD sandbox to automate everything from build → deploy |
+| 🌟 Project | 🚀 Stack | 🧩 Idea |
+|------------|----------|--------|
+| `GAJA` 🐘 | IoT, Python, Raspberry Pi | Saving elephants with real-time detection on railway tracks |
+| `SpamSleuth` 🔍 | Django, DRF, SQLite | Detect and flag spam numbers using a RESTful API |
+| `QueueCraft` 🌀 | Celery, Redis, Docker | My experiment with distributed job queues & observability |
+| `StressSense` 😓 | OpenCV, Audio ML | Stress detection from images + speech |
+| `WeatherPing` 🌦️ | Django, Celery, Redis | Real-time weather alert dashboard with auto-notifications |
 
----
-
-### 🧰 Tech Toolbox
-
-![Python](https://img.shields.io/badge/Python-3E8E7E?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-007ACC?style=for-the-badge&logo=go&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+> 🔧 Every project is a puzzle I loved solving. Some are practical. Some are playful. All are personal.
 
 ---
 
-### 🧭 Roadmap: What I'm Building Next
-- `LogHound` – Custom log aggregator with tagging + search 🔍
-- `AutoChaos` – Simulate system failures to test resiliency 🔥
-- `InfraWatch UI` – Web dashboard for my metrics agent 📊
+### 🧠 Skills I Enjoy Using
 
----
+```bash
+Languages:   Python · Golang · JavaScript · C++
+Frameworks:  Django · Express.js · Flask
+Tools:       Docker · Git · Redis · Jenkins · GitHub Actions
+Cloud:       AWS · DigitalOcean · Firebase
+Fun Things:  APIs · IoT · Web Scraping · Dashboards · Automations
 
-### 📫 Let's Connect
-- 📧 bhanujakarumuru2@gmail.com  
-- 🌐 [LinkedIn](https://in.linkedin.com/in/bhanujakarumuru)  
-- 📝 [Resume](https://github.com/Bhanuu01/resume/blob/main/Resume.pdf)
 
----
-
-⚡ “Systems are beautiful puzzles. I build them, break them, and make them stronger.”
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Bhanuu01&show_icons=true&theme=radical" alt="Bhanuja's GitHub Stats" /> <br /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhanuu01&layout=compact&theme=radical" alt="Top Languages" /> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:86A8E7,100:91EAE4&height=120&section=footer" /> </p> ```
