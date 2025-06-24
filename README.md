@@ -29,12 +29,38 @@
 
 ### 🧠 Skills I Enjoy Using
 
-```bash
-Languages:   Python · Golang · JavaScript · C++
-Frameworks:  Django · Express.js · Flask
-Tools:       Docker · Git · Redis · Jenkins · GitHub Actions
-Cloud:       AWS · DigitalOcean · Firebase
-Fun Things:  APIs · IoT · Web Scraping · Dashboards · Automations
+Languages: Python · Golang · JavaScript · C++
+Frameworks: Django · Express.js · Flask
+Tools: Docker · Git · Redis · Jenkins · GitHub Actions
+Cloud: AWS · DigitalOcean · Firebase
+Fun Things: APIs · IoT · Web Scraping · Dashboards · Automations
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Bhanuu01&show_icons=true&theme=radical" alt="Bhanuja's GitHub Stats" /> <br /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhanuu01&layout=compact&theme=radical" alt="Top Languages" /> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:86A8E7,100:91EAE4&height=120&section=footer" /> </p> ```
+---
+
+### 📫 Let’s Connect!
+
+- 📧 **bhanujakarumuru2@gmail.com**  
+- 💼 [LinkedIn](https://in.linkedin.com/in/bhanujakarumuru)  
+- 📝 [Resume](https://github.com/Bhanuu01/resume/blob/main/Resume.pdf)  
+- 🌍 [My GitHub](https://github.com/Bhanuu01)  
+
+---
+
+### ⚡ Fun Fact
+
+> The first real “system” I built was an API that could tell whether your phone number was spam or not.  
+> The second was a safety project to save elephants.  
+> The third? Well, I’m still building it... stay tuned 👀
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhanuu01&show_icons=true&theme=radical" alt="Bhanuja's GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhanuu01&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:86A8E7,100:91EAE4&height=120&section=footer" />
+</p>
