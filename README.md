@@ -47,14 +47,6 @@ Fun Things: APIs · IoT · Web Scraping · Dashboards · Automations
 
 ---
 
-### ⚡ Fun Fact
-
-> The first real “system” I built was an API that could tell whether your phone number was spam or not.  
-> The second was a safety project to save elephants.  
-> The third? Well, I’m still building it... stay tuned 👀
-
----
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Bhanuu01&show_icons=true&theme=radical" alt="Bhanuja's GitHub Stats" />
   <br />
