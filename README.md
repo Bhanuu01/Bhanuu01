@@ -48,9 +48,9 @@ Fun Things: APIs · IoT · Web Scraping · Dashboards · Automations
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhanuu01&show_icons=true&theme=radical" alt="Bhanuja's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhanuu01&show_icons=true&theme=graywhite" alt="Bhanuja's GitHub Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhanuu01&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhanuu01&layout=compact&theme=graywhite" alt="Top Languages" />
 </p>
 
 <p align="center">
