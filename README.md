@@ -18,9 +18,8 @@
 | 🌟 Project | 🚀 Stack | 🧩 Idea |
 |------------|----------|--------|
 | `GAJA` 🐘 | IoT, Python, Raspberry Pi | Saving elephants with real-time detection on railway tracks |
-| `SpamSleuth` 🔍 | Django, DRF, SQLite | Detect and flag spam numbers using a RESTful API |
-| `QueueCraft` 🌀 | Celery, Redis, Docker | My experiment with distributed job queues & observability |
 | `StressSense` 😓 | OpenCV, Audio ML | Stress detection from images + speech |
+| `SpamSleuth` 🔍 | Django, DRF, SQLite | Detect and flag spam numbers using a RESTful API |
 | `ClimaCast` 🌦️ | Django, Celery, Redis | Real-time weather alert dashboard with auto-notifications |
 
 > 🔧 Every project is a puzzle I loved solving. Some are practical. Some are playful. All are personal.
@@ -42,7 +41,6 @@ Fun Things: APIs · IoT · Web Scraping · Dashboards · Automations
 
 - 📧 **bhanujakarumuru2@gmail.com**  
 - 💼 [LinkedIn](https://in.linkedin.com/in/bhanujakarumuru)  
-- 📝 [Resume](https://github.com/Bhanuu01/resume/blob/main/Resume.pdf)  
 - 🌍 [My GitHub](https://github.com/Bhanuu01)  
 
 ---
