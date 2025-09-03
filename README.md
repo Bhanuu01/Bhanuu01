@@ -45,7 +45,7 @@
 
 ### 📫 Let’s Connect!
 
-- 📧 **bhanujakarumuru2@gmail.com**  
+- 📧 **bk3170@nyu.edu**  
 - 💼 [LinkedIn](https://in.linkedin.com/in/bhanujakarumuru)  
 - 🌍 [GitHub](https://github.com/Bhanuu01)  
 - 📄 [My Resume](https://drive.google.com/file/d/1-TRrSSMYnCRAV7gQVC_RpIEfxSxbBHTC/view?usp=drive_link)  
