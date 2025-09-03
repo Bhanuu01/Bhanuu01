@@ -18,9 +18,9 @@
 | 🌟 Project | 🚀 Stack | 🧩 Idea |
 |------------|----------|--------|
 | `GAJA` 🐘 | IoT, Python, Raspberry Pi | Saving elephants with real-time detection on railway tracks |
-| `StressSense` 😓 | OpenCV, Audio ML | Stress detection from images + speech |
-| `SpamSleuth` 🔍 | Django, DRF, SQLite | Detect and flag spam numbers using a RESTful API |
 | `ClimaCast` 🌦️ | Django, Celery, Redis | Real-time weather alert dashboard with auto-notifications |
+| `Automatic Speech Severity Detection & Classification` | Proposed model demonstrated a 42.86% improvement in classification accuracy over the baseline using domain-specific augmentation strategies. |
+| `StressSense` 😓 | OpenCV, Audio ML | Building Audio-Visual Stress detection Model |
 
 > 🔧 Every project is a puzzle I loved solving. Some are practical. Some are playful. All are personal.
 
@@ -28,12 +28,10 @@
 
 ### 🧠 Skills I Enjoy Using
 
-Languages: Python · Golang · JavaScript · C++
-Frameworks: Django · Express.js · Flask
-Tools: Docker · Git · Redis · Jenkins · GitHub Actions
-Cloud: AWS · DigitalOcean · Firebase
-Fun Things: APIs · IoT · Web Scraping · Dashboards · Automations
-
+Languages: Python · C/ C++ · JavaScript
+Frameworks: Django · Flask · Express.js
+Tools: Docker · Git · Redis · GitHub Actions · AWS
+Fun Things: APIs · IoT · Web Scraping · Dashboards · Automations · Applied Machine Learning · Speech Processing
 
 ---
 
