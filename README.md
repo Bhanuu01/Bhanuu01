@@ -19,7 +19,7 @@
 |------------|----------|--------|
 | `GAJA` 🐘 | IoT, Python, Raspberry Pi | Saving elephants with real-time detection on railway tracks |
 | `ClimaCast` 🌦️ | Django, Celery, Redis | Real-time weather alert dashboard with auto-notifications |
-| `Automatic Speech Severity Detection & Classification` | Proposed model demonstrated a 42.86% improvement in classification accuracy over the baseline using domain-specific augmentation strategies. |
+| `Automatic Speech Severity Detection & Classification` | Machine Learning, Deep Learning, Speech processing | Proposed model demonstrated a 42.86% improvement in classification accuracy over the baseline using domain-specific augmentation strategies. |
 | `StressSense` 😓 | OpenCV, Audio ML | Building Audio-Visual Stress detection Model |
 
 > 🔧 Every project is a puzzle I loved solving. Some are practical. Some are playful. All are personal.
