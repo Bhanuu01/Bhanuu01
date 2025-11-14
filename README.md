@@ -1,28 +1,15 @@
 <h1 align="center">Hey, I'm Bhanuja 👋</h1>
 <h3 align="center">A curious engineer who loves building scalable systems and experimenting with applied AI & IoT to solve real-world problems.</h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,100:86A8E7&height=160&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=30&fontColor=ffffff" />
-</p>
+</p> -->
 
 ---
 
 🌱 Always learning — whether it’s a new framework, a random API, or a smarter way to solve a problem  
 💡 I enjoy turning ideas into code, and code into products people actually use  
 🚀 Currently: MS in Computer Engineering @ NYU (Fall 2025), exploring backend systems, cloud infra, automation & applied ML  
-
----
-
-### ✨ Featured Projects
-
-| 🌟 Project | 🚀 Stack | 🧩 Impact |
-|------------|----------|-----------|
-| `GAJA` 🐘 | IoT · Python · Raspberry Pi · MQTT | Real-time elephant detection system to prevent railway accidents; showcased at **IIT Guwahati’s Techniche** & **North East Research Conclave** |
-| `ClimaCast` 🌦️ | Django · Celery · Redis · APIs | Real-time weather alert dashboard with automated notifications, enabling faster and smarter decision-making |
-| `Speech Disorder Detection & Classification` 🎤 | ML · Deep Learning · Speech Processing | Co-authored peer-reviewed paper; achieved **42.86% improvement** in classification accuracy with domain-specific augmentation |
-| `StressSense` 😓 | OpenCV · Librosa · Audio-Visual ML | Designed multimodal pipeline for real-time stress detection, improving inference reliability and showcasing ML system integration |
-
-> 🔧 Every project is a puzzle I loved solving. Some are practical, some playful — all are personal.
 
 ---
 
