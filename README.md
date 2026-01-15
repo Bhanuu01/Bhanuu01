@@ -24,22 +24,6 @@
 
 ---
 
-### 🌍 Open Source Contributions (With Counts)
-
-- **CRIU (Checkpoint/Restore in Userspace)** — PRs merged · syscall test reliability  
-- **NumPy** — Issues reported · dtype overflow analysis  
-- **Lind (Wasm Runtime)** — Multiple PRs · deterministic syscall & exec tests  
-
-📊 View all my PRs → https://github.com/Bhanuu01?tab=pulls
-
----
-
-### 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhanuu01&format=png)
-
----
-
 ### 📊 Contribution Activity Graph
 
 <p align="center">
