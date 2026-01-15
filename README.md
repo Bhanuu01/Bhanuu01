@@ -8,9 +8,9 @@
 
 ### 👨‍💻 About Me
 
-- 🧠 Interested in **backend systems, cloud infrastructure, automation & applied ML**
+- 🧠 Interested in **backend systems,automation & applied Machine Learning**
 - 🌱 Currently exploring **distributed systems, Linux internals & open-source**
-- 🚀 Incoming **MS in Computer Engineering @ NYU (Fall 2025)**
+- 🚀 **MS in Computer Engineering @ NYU (Fall 2025)**
 - 🤝 Actively contributing to **real-world open-source projects**
 
 ---
