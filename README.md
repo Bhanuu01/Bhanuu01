@@ -36,7 +36,7 @@
 
 ### 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhanuu01&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhanuu01&format=png)
 
 ---
 
