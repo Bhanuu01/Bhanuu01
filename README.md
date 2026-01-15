@@ -37,13 +37,14 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhanuu01&show_icons=true&theme=transparent" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhanuu01&theme=transparent" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhanuu01&show_icons=true&theme=transparent&cache_seconds=86400" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=Bhanuu01&theme=transparent" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhanuu01&layout=compact&theme=transparent" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhanuu01&layout=compact&theme=transparent&cache_seconds=86400" height="150"/>
 </p>
+
 
 ---
 
