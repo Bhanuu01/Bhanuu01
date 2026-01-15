@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me
 
-- 🧠 Interested in **backend systems,automation & applied Machine Learning**
+- 🧠 Interested in **Backend Systems,Systems Software & applied Machine Learning**
 - 🌱 Currently exploring **distributed systems, Linux internals & open-source**
 - 🚀 **MS in Computer Engineering @ NYU (Fall 2025)**
 - 🤝 Actively contributing to **real-world open-source projects**
