@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhanuja</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+%26+Systems+Engineer;Open+Source+Contributor;Applied+ML+%26+IoT+Explorer;MS+Computer+Engineering+%40+NYU&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+%26+Systems+Engineer;Open+Source+Contributor;Applied+ML+%26+Explorer;MS+Computer+Engineering+%40+NYU&center=true&width=500&height=50">
 </p>
 
 ---
@@ -36,8 +36,7 @@
 
 ### 📈 GitHub Stats
 
-<img src="https://metrics.lecoq.io/Bhanuu01" />
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhanuu01&show_icons=true)
 
 ---
 
